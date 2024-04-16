@@ -10,4 +10,5 @@ def hello_world():
 if __name__ == '__main__':
     app.run()
 
-hola = 'Hola'
+hola = 'Hola Mundo'
+adios = 'Adios Mundo'
